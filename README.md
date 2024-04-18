@@ -16,7 +16,7 @@ With the rapid development of the Internet and the approaching of the next-gener
 
 ### Key Codes
 
-In branch: [GLOBECOM-2023]()
+In branch: [GLOBECOM-2023](https://github.com/int-net-official/packet-level-routing-OMNeTpp/tree/GLOBECOM-2023)
 
 ### Citation
 
@@ -50,7 +50,7 @@ As the rising complexity for network simulation and the development of deep rein
 
 ### Key Codes
 
-In branch: [IC-NIDC-2023]()
+In branch: [IC-NIDC-2023](https://github.com/int-net-official/packet-level-routing-OMNeTpp/tree/IC-NIDC-2023)
 
 ### Citation
 
