@@ -1,4 +1,4 @@
-# Researches on Probabilistic Routing Based on OMNeT++
+# Researches on Routing Based on OMNeT++
 
 ## 1. Deep Reinforcement Learning Based Dynamic Routing Optimization for Delay-Sensitive Applications
 
