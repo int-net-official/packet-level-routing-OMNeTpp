@@ -1,6 +1,7 @@
 # Researches on Routing Based on OMNeT++
 
-[TOC]
+- [1. Deep Reinforcement Learning Based Dynamic Routing Optimization for Delay-Sensitive Applications](#1-deep-reinforcement-learning-based-dynamic-routing-optimization-for-delay-sensitive-applications)
+- [2. RL4NET++: A Packet-Level Network Simulation Framework for DRL-Based Routing Algorithms](#2-rl4net-a-packet-level-network-simulation-framework-for-drl-based-routing-algorithms)
 
 ## 1. Deep Reinforcement Learning Based Dynamic Routing Optimization for Delay-Sensitive Applications
 
